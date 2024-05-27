@@ -1,2 +1,2 @@
-# Kaggle-gu-Guruga
-kaggle学習用のリポジトリ
+# Kaggle-
+kaggle学習用
